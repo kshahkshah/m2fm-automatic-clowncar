@@ -44,7 +44,7 @@ That's it! Now incoming images will be moved to your namespaced directory or by 
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/m2fm-automatic-clowncar/fork )
+1. Fork it ( https://github.com/whistlerbrk/m2fm-automatic-clowncar/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
